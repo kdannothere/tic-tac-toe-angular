@@ -1,6 +1,5 @@
 /*Reset for all browsers*/
 * {
-	/*Start reset*/
 	padding: 0;
 	margin: 0;
 	border: 0;
@@ -86,7 +85,11 @@ h5,
 h6 {
 	font-size: inherit;
 	font-weight: 400;
-} /*Finish reset*/
+}
+
+
+
+
 html,
 body {
 	height: 100%;
